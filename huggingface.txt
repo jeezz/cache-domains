@@ -1,0 +1,2 @@
+huggingface.co
+cdn-lfs.huggingface.co
