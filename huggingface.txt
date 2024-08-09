@@ -5,3 +5,4 @@ download.pytorch.org
 pypi.org
 github.com
 files.pythonhosted.org
+repo.anaconda.com
